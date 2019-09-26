@@ -328,3 +328,23 @@ a:hover {
 .text-wrapper p{
     color: #fff;
 }
+
+/*
+   ========================================
+   Primary footer
+   ========================================
+*/
+
+.primary-footer {
+  color: #648880;
+  font-size: 14px;
+  padding-top: 44px;
+  padding-bottom: 44px;
+}
+
+.primary-footer small {
+  float: left;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 64px;
+}
