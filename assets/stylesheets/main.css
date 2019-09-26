@@ -166,3 +166,24 @@ h5 {
   text-transform: uppercase;
   margin-top: 29px;
 }
+
+/*
+   ========================================
+   Links
+   ========================================
+*/
+
+a {
+  color: #648880;
+  text-decoration: none;
+  color: #fff;
+  padding-right: 15px;
+}
+
+p a {
+  border-bottom: 1px solid #dfe2e5;
+}
+
+a:hover {
+  color: #a9b2b9;
+}
