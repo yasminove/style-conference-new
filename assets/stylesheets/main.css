@@ -278,3 +278,18 @@ a:hover {
     padding: 10px 30px;
     background: #fff;
   }
+
+  /*
+   ========================================
+   Home
+   ========================================
+*/
+
+.hero {
+ background-image: url('../../conf.jpg');
+ padding: 135px 80px 428px 80px;
+ line-height: 44px;
+ text-align: center;
+ height: 651px;
+ margin-left: -2px;
+}
