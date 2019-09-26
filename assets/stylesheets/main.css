@@ -128,3 +128,19 @@ register-hero{
     margin-right: auto;
     margin-left: auto;
 }
+
+/*
+   ========================================
+   Custom Styles
+   ========================================
+*/
+
+body {
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 44px;
+}
