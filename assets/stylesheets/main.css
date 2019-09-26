@@ -216,3 +216,43 @@ a:hover {
 .nav {
   text-align: right;
 }
+
+
+/*
+    ========================================
+    Clearfix
+    ========================================
+ */
+
+ .group:before,
+ .group:after {
+   content: "";
+   display: table;
+ }
+
+.group:after {
+    clear: both;
+  }
+
+ .group {
+   clear: both;
+   *zoom: 1;
+ }
+
+ .group{
+   background-color: #000;
+   /* border: 2px #C5B358 solid; */
+   width: 1280px;
+   height: 183px;
+ }
+
+ /*
+    ========================================
+    Typography
+    ========================================
+ */
+
+ h1, h3, h4, h5, p {
+   margin-bottom: 22px;
+   color: #000;
+ }
