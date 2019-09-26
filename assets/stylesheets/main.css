@@ -256,3 +256,25 @@ a:hover {
    margin-bottom: 22px;
    color: #000;
  }
+
+ /*
+    ========================================
+    Buttons
+    ========================================
+ */
+
+
+ .btn {
+   margin: 0
+   display: inline-block;
+   border-radius: 20px;
+   color: #000;
+   background: grey;
+ }
+
+
+  .btn-alt {
+    border: 1px solid #dfe2e5;
+    padding: 10px 30px;
+    background: #fff;
+  }
