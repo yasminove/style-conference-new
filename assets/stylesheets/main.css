@@ -324,3 +324,7 @@ a:hover {
   margin-left: 35px;
   color: #fff;
 }
+
+.text-wrapper p{
+    color: #fff;
+}
