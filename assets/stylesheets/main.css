@@ -113,3 +113,18 @@ register-hero{
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.wrapper {
+    /* width: 960px;
+    margin: -40px 180px; */
+    /* width: 1309px; */
+    width: 1320px;
+    margin-left: 43px;
+    padding-top: 32px;
+    /* margin: -40px -2px; */
+    margin: -42px -13px;
+    /* height: 270px; */
+    /* height: 458px; */
+    height: 329px;
+    background-color: #fff;
+}
