@@ -305,3 +305,22 @@ a:hover {
   margin-top: 25px;
 
 }
+
+/*
+   ========================================
+   Primary header
+   ========================================
+*/
+
+.logo {
+  border-top: 5px solid #fff;
+  padding: 40px 0 22px 0;
+  float: left;
+  font-weight: 100;
+  text-transform: uppercase;
+  /* letter-spacing: .5em; */
+  font-size: 27px;
+  line-height: 44px;
+  margin-left: 35px;
+  color: #fff;
+}
