@@ -98,3 +98,18 @@ register-hero{
   color: #fff;
   font-weight: 300;
 }
+
+.grid {
+  background: url('../../conf1.jpg') no-repeat;
+  background-size: cover;
+  height: 702px;
+  width: 1282px;
+  margin-left: -2px;
+}
+
+
+.container {
+  min-height: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
