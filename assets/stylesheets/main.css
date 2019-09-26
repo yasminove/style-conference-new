@@ -88,3 +88,13 @@ register-hero{
   margin-top: 318px;
   margin-left: -80px;
 }
+
+.text-wrapper-speakers{
+  width: 1116px;
+  /* background-color: #ffffffa8; */
+}
+
+.text-wrapper {
+  color: #fff;
+  font-weight: 300;
+}
